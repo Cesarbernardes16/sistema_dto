@@ -453,12 +453,12 @@ export const perguntasDTO = {
             "Em situações de alta demanda, o funcionário sinaliza ao supervisor a dificuldade em realizar a pausa, ou ele simplesmente a ignora e continua trabalhando?"
         ],
         "EPI": [
-            "Conhece a política de segurança sobre os equipamentos de proteção individual EPI?",
+            "Conhece os procedimentos de segurança sobre os equipamentos de proteção individual EPI?",
             "Recebeu treinamento sobre equipamentos de proteção individual na integração?",
             "Conhece os equipamentos específicos para atividade?",
             "Recebeu uniformes padrão após a integração de segurança?",
             "Recebeu todos os equipamentos de proteção individual para atividade especifica?",
-            "É registrado no sistema biométrico de entrega de EPIs?",
+            "É registrado na ficha de entrega de EPIs?",
             "É orientado a realizar a troca dos EPIs quando danificado ou no período de troca?",
             "Áreas estão sinalizadas exigindo o uso de EPIs de forma visível?",
             "Recebeu medidas como advertências ou participou da escolinha de segurança por descumprimento nesse processo?"
